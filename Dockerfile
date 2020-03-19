@@ -1,6 +1,6 @@
 # https://www.jacoco.org/jacoco/
 
-ARG jacoco_version=0.8.4
+ARG jacoco_version=0.8.5
 ARG alpine_version=latest
 ARG openjdk_version=8u242-jre-slim
 
