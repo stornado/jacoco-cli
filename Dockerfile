@@ -2,7 +2,7 @@
 
 ARG jacoco_version=0.8.5
 ARG alpine_version=latest
-ARG openjdk_version=8u242-jre-slim
+ARG openjdk_version=11.0.6-jre-slim
 
 FROM alpine:$alpine_version as downloader
 
